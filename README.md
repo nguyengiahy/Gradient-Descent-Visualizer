@@ -9,3 +9,6 @@ How to use:
 5. python gradientDescent(linear).py</br>
    or python gradientDescent(quadratic).py
 <br/>
+
+<b>Linear</b><br/>
+![robo](https://media.giphy.com/media/WfdyfwbV4RbvpAyemU/giphy.gif)
