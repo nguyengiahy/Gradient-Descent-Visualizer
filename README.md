@@ -12,11 +12,11 @@ How to use:
 
 <b>Linear</b><br/><br/>
 ![robo](https://media.giphy.com/media/WfdyfwbV4RbvpAyemU/giphy.gif)
-</br>
+</br>Cost per iteration</br>
 <img src="images/cost1.png" width=300>
 <br/><br/>
 
 <b>Quadratic</b><br/><br/>
-![robo](https://media.giphy.com/media/WfdyfwbV4RbvpAyemU/giphy.gif)
-</br>
+![robo](https://media.giphy.com/media/Bjwg55OajDdh6qun20/giphy.gif)
+</br>Cost per iteration</br>
 <img src="images/cost2.png" width=300>
