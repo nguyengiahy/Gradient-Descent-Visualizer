@@ -9,3 +9,14 @@ How to use:
 5. python gradientDescent(linear).py</br>
    or python gradientDescent(quadratic).py
 <br/>
+
+<b>Linear</b><br/><br/>
+![robo](https://media.giphy.com/media/WfdyfwbV4RbvpAyemU/giphy.gif)
+</br>
+<img src="images/cost1.png" width=300>
+<br/><br/>
+
+<b>Quadratic</b><br/><br/>
+![robo](https://media.giphy.com/media/WfdyfwbV4RbvpAyemU/giphy.gif)
+</br>
+<img src="images/cost2.png" width=300>
