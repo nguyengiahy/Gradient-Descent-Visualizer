@@ -54,7 +54,7 @@ def GD_momentum(x_init, learningRate, iteration, gamma):
 	for i in range(iteration):
 		v_new = gamma*v_old + learningRate*grad(x_list[-1])
 		x_new = x_list[-1] - v_new
-		if np.linalg.norm(grad(x_new))/len(x_new) < 1e-3:	# just a small number -> stop GD
+		if np.linalg.norm(grad(x_new))/len(x_new) < 0.05:	# just a small number -> stop GD
 			break
 		x_list.append(x_new)
 		v_old = v_new
