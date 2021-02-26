@@ -52,7 +52,7 @@ def gradientDescent(x_init, learningRate, iteration):
 	x_list = [x_init]
 	for i in range(iteration):
 		x_new = x_list[-1] - learningRate * grad(x_list[-1])	# -1 is the last element in list
-		if np.linalg.norm(grad(x_new)) < 1e-3:		# just a small number -> stop GD
+		if np.linalg.norm(grad(x_new))/len(x_new) < 1e-3		# just a small number -> stop GD
 			break
 		x_list.append(x_new)
 	return x_list
