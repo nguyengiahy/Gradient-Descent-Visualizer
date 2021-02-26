@@ -20,3 +20,7 @@ How to use:
 ![visualizer](https://media.giphy.com/media/Bjwg55OajDdh6qun20/giphy.gif)
 </br>Cost per iteration</br>
 <img src="images/cost2.png" width=300>
+<br/><br/>
+
+<b>Momentum Gradient Descent</b><br/><br/>
+![visualizer](https://media.giphy.com/media/pdiHNAfM3NWZXlKiOA/giphy.gif)
